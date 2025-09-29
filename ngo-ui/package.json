@@ -28,7 +28,7 @@
     "popper.js": "^1.14.4",
     "rxjs": "^6.1.0",
     "underscore": "^1.9.1",
-    "zone.js": "~0.8.26"
+    "zone.js": "~0.15.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.10.3",
